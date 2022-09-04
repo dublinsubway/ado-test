@@ -1,0 +1,1 @@
+Here's a test file. This will mark a successful execution of an ADO pipeline (fi I can make it right) on the new line each time.
