@@ -1,0 +1,1 @@
+Quick and easy python/ado pipeline (for now). Take it if you need/want it.
