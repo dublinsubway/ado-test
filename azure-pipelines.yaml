@@ -4,6 +4,8 @@ trigger:
 pool:
   vmImage: ubuntu-latest
 
+name: $(Build.DefinitionName)_$(Date:yyyyMMdd)_$(Rev:r)
+
 steps:
 - task: UsePythonVersion@0
   inputs:
